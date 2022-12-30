@@ -1,0 +1,6 @@
+<svg class="icon arrow-thin-right" xmlns="http://www.w3.org/2000/svg">
+    <defs id="arrow-thin-right" viewBox="0 0 16 16">
+        <path d="M12.938 7.2l-4.857-4.857 1.131-1.131 6.788 6.788-6.788 6.788-1.131-1.131 4.857-4.857h-12.938v-1.6z"></path>
+    </defs>
+    <use xlink:href="#arrow-thin-right"></use>
+</svg>
